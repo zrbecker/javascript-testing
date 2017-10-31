@@ -1,0 +1,21 @@
+{
+  "name": "javascript-testing",
+  "version": "1.0.0",
+  "description": "A repository for exploring unit testing in various javascript libraries.",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zrbecker/javascript-testing"
+  },
+  "author": "Zachary Becker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zrbecker/javascript-testing/issues"
+  },
+  "homepage": "https://github.com/zrbecker/javascript-testing#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
